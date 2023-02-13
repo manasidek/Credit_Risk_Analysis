@@ -107,6 +107,8 @@
 
 ## Summary
 
+- The Adaptive Boost Model has the highest accuracy and lowest false negative High risk predictions amongst the 6 models, so this model could be recommended for use for this data set. This can be observed through the confusion matrices shown below.
+ 
 - Random Over Sampling
 
 ![cm_ROS](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/cm_ROS.png)
@@ -130,6 +132,5 @@
 - Easy Ensemble AdaBoost Classifier
 
 ![cm_ada](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/cm_ada.png)
-
 
 
