@@ -8,19 +8,19 @@
 
 ### Scripts
 
-	1. Resampling [resample]()
+	1. Resampling [resample](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
-	2. Ensemble [ensemble]()
+	2. Ensemble [ensemble](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
 
 ### Data
 
 - The features data frame is:
 
-![X_describe]()
+![X_describe](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/X_describe.png)
 
 - The target vector is:
 
-![target]()
+![target](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/target.png)
 
 ### Resampling Models
 
@@ -32,9 +32,9 @@
 	
 	- Recall rate for high risk is 73% and for low risk is 60%
 
-![acc_ROS]()
+![acc_ROS](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/acc_ROS.png)
 
-![class_ROS]()
+![class_ROS](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/class_ROS.png)
 
 
 - SMOTE Oversampling
@@ -45,9 +45,9 @@
 	
 	- Recall rate for high risk is 63% and for low risk is 69%
 
-![acc_SMOTE]()
+![acc_SMOTE](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/acc_SMOTE.png)
 
-![class_SMOTE]()
+![class_SMOTE](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/class_SMOTE.png)
 
 - Undersampling (Cluster Centroids)
 
@@ -57,9 +57,9 @@
 	
 	- Recall rate for high risk is 69% and for low risk is 40%
 
-![acc_cc]()
+![acc_cc](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/acc_cc.png)
 
-![class_cc]()
+![class_cc](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/class_cc.png)
 
 - Combination (Over and Under) Sampling (SMOTEENN)
 
@@ -69,9 +69,9 @@
 	
 	- Recall rate for high risk is 70% and for low risk is 57%
 
-![acc_een]()
+![acc_een](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/acc_een.png)
 
-![class_een]()
+![class_een](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/class_een.png)
 
 ### Ensemble Models
 
@@ -83,13 +83,13 @@
 	
 	- Recall rate for high risk is 70% and for low risk is 87%
 
-![acc_BRFC]()
+![acc_BRFC](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/acc_BRFC.png)
 
-![class_BRFC]()
+![class_BRFC](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/class_BRFC.png)
 
 - Features in descending order:
 
-![features]() 
+![features](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/features.png) 
 
 - Easy Ensemble AdaBoost Classifier
 
@@ -99,35 +99,35 @@
 	
 	- Recall rate for high risk is 92% and for low risk is 94%
 
-![acc_ada]()
+![acc_ada](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/acc_ada.png)
 
-![class_ada]()
+![class_ada](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/class_ada.png)
 
 ## Summary
 
 - Random Over Sampling
 
-![cm_ROS]()
+![cm_ROS](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/cm_ROS.png)
 
 - SMOTE Oversampling
 
-![cm_SMOTE]()
+![cm_SMOTE](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/cm_SMOTE.png)
 
 - Undersampling (Cluster Centroids)
 
-![cm_cc]()
+![cm_cc](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/cm_cc.png)
 
 - Combination (Over and Under) Sampling (SMOTEENN)
 
-![cm_een]()
+![cm_een](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/cm_een.png)
 
 - Balanced Random Forest Classifier
 
-![cm_BRFM]()
+![cm_BRFM](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/cm_BRFC.png)
 
 - Easy Ensemble AdaBoost Classifier
 
-![cm_ada]()
+![cm_ada](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/cm_ada.png)
 
 
 
