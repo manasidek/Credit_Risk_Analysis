@@ -14,6 +14,8 @@
 
 ### Data
 
+- The link to the data file is: [LoanStats](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/LoanStats_2019Q1.csv)
+
 - The features data frame is:
 
 ![X_describe](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/Images/X_describe.png)
