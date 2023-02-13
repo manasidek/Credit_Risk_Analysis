@@ -8,9 +8,9 @@
 
 ### Scripts
 
-	1. Resampling [resample](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+1. Resampling [resample](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
-	2. Ensemble [ensemble](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
+2. Ensemble [ensemble](https://github.com/manasidek/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
 
 ### Data
 
